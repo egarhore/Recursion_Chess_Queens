@@ -35,4 +35,6 @@ jobs:
     - name: Run the program
       run: |
         python Recursion_chess_Queens.py
+        10
+        5
         
