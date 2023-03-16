@@ -1,0 +1,2 @@
+Board_Size 8
+Start_point 1
